@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CPU Scheduling Algorithms Project - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
 
 <h1>CPU Scheduling Algorithms Project</h1>
 
@@ -43,7 +15,7 @@
 <h2>Technologies Used</h2>
 <ul>
     <li>HTML5</li>
-    <li>CSS3</li>
+    <li>CSS</li>
     <li>JavaScript</li>
 </ul>
 
@@ -61,17 +33,11 @@
 <h2>Usage</h2>
 <p>Once you open the project in your browser, you will see options to select different scheduling algorithms. Follow the on-screen instructions to input process details and observe how each algorithm schedules the processes.</p>
 
-<h2>Contributing</h2>
-<p>If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Acknowledgements</h2>
 <p>Special thanks to all contributors and resources that helped in understanding CPU scheduling algorithms.</p>
 
 <h2>Contact</h2>
-<p>If you have any questions or suggestions, feel free to reach out at your.email@example.com.</p>
+<p>If you have any questions or suggestions, feel free to reach out at khzrsaqib@gmail.com</p>
 
-</body>
-</html>
+
